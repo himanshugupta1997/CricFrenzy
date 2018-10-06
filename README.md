@@ -2,11 +2,10 @@
 
 #### A website that can show records, live scores, results etc of cricket matches built using [Node.js](https://nodejs.org/en/), [MonogoDB](https://www.mongodb.com/) and [Bootstrap](http://getbootstrap.com/). 
 
-## Link : [www.cricket-project.herokuapp.com](www.cricket-project.herokuapp.com)
+## Link : [http://cricket-project.herokuapp.com](http://cricket-project.herokuapp.com)
 
 
 ![Screenshot](public_html/assets/Screenshot1.png)
-
 
 
 ## Features
